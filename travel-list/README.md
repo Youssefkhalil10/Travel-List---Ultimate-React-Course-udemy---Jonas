@@ -21,7 +21,7 @@ A simple React project to manage your travel packing list — built while follow
 
 ## 📸 Preview
 
-(Add a screenshot of your project here if you want, e.g. `![screenshot](./screenshot.png)`)
+(Add a screenshot of your project here if you want, e.g. `![screenshot](./src/assets/Screenshot%20(131).png)`)
 
 ---
 
